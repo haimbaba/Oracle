@@ -13,3 +13,4 @@ grant create session to haim;
 grant create table to haim;
 grant create trigger to haim;
 grant create view to haim;
+--End
